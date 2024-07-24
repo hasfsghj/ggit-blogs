@@ -1,6 +1,7 @@
 <script setup>
+//hai afara !
 import { RouterLink, RouterView } from 'vue-router'
-</script>
+</script> 
 
 <template>
 
